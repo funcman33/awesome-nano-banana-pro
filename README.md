@@ -137,7 +137,7 @@ Hyperrealistic luxury product photography of a transparent cosmetic jar labeled 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177768480-HAXu2Rvx.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177768480-HAXu2Rvx.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -164,7 +164,7 @@ A hyperrealistic premium product photography scene of a transparent cosmetic jar
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177777081-O6UdZ-ut.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177777081-O6UdZ-ut.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -229,7 +229,7 @@ Output: 1 image, 16:9 landscape, ultra-premium liquid glass infographic.
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177777079-dt8jGGHe.png)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177777079-dt8jGGHe.png)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -256,7 +256,7 @@ Ultra-premium commercial product photo of a futuristic flagship smartphone float
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177780352-AM8Fl8yk.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177780352-AM8Fl8yk.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -283,7 +283,7 @@ Create a technical infographic of [OBJECT NAME] with a 45-degree isometric 3D pe
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177777077-nnfnisXo.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177777077-nnfnisXo.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -346,7 +346,7 @@ Border: Minimal single thin line border in [边框颜色] (hand-embroidered). Co
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177768481-lv7sUXHn.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177768481-lv7sUXHn.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -373,7 +373,7 @@ Create a highly detailed, miniature LEGO-style 3D figure of [NAME], preserving t
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177768481-qCUlGGd2.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177768481-qCUlGGd2.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -400,7 +400,7 @@ DIRECTIVE: Generate a raw, hyper-realistic POV wildlife photograph shot on an ac
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177768481-HRA31fJE.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177768481-HRA31fJE.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -427,7 +427,7 @@ i need a flowchart for how to toast bread, make it as wacky and over the top and
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177778694-QWwU_NY7.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177778694-QWwU_NY7.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -454,7 +454,7 @@ Create a branded technical infographic of a PRODUCT NAME, fully matching the vis
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177790725-2tmHGRki.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177790725-2tmHGRki.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -481,7 +481,7 @@ This prompt specifies a realistic mirror-selfie scene centered on a stylish woma
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177798126-VxgTGXBB.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177798126-VxgTGXBB.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -508,7 +508,7 @@ A Nike Air Force shoe carved from black meteorite granite, glowing with emerald 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177795537-T_w46m_l.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177795537-T_w46m_l.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -535,7 +535,7 @@ This is a specific medium-shot mirror selfie featuring three women together in a
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177794883-1l5qe71M.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177794883-1l5qe71M.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -562,7 +562,7 @@ Ultra-clean modern recipe infographic. Showcase [FOOD] in a visually appealing f
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177793834-1zqFSdlx.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177793834-1zqFSdlx.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -589,7 +589,7 @@ The perfume bottle is the clear hero subject in a luxury editorial ad setup, so 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177786457-nSz4IXaI.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177786457-nSz4IXaI.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -616,7 +616,7 @@ iPhone mirror selfie in luxury elevator. Woman&#x27;s face hidden by phone while
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177804852-PO2zS9IZ.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177804852-PO2zS9IZ.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -643,7 +643,7 @@ Anchor: `[Chess Set / Backgammon] :: [Cyberpunk Neon City / Gothic Cathedrals]::
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177800960-uJY1w3-x.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177800960-uJY1w3-x.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -670,7 +670,7 @@ Ultra realistic macro of fresh strawberries falling into creamy white milk, thic
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177811507-KE5ex7Jn.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177811507-KE5ex7Jn.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -697,7 +697,7 @@ Bracketed example slots for outfit, colors, pose, and background make this a reu
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177808086-UkjTPQ25.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177808086-UkjTPQ25.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -724,7 +724,7 @@ Medium Full Shot Of A Young Woman With Dark Наir Tied Васк, Seated On A Wo
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177813757-tbu5eQiK.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177813757-tbu5eQiK.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -778,7 +778,7 @@ dramatic shadows across the open book pages. Color Palette: Match the city's vib
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177801273-Oc1crcHs.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177801273-Oc1crcHs.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -805,7 +805,7 @@ Fashion editorial close-up portrait of an ethereal young woman, delicate light-f
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177813728-EhHey6x5.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177813728-EhHey6x5.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -832,7 +832,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177813727-A2lxi1un.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177813727-A2lxi1un.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -860,7 +860,7 @@ Behind him, two impeccably dressed bodyguards stand alert, reinforcing a sense o
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177815167-VeX_CK8C.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177815167-VeX_CK8C.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -887,7 +887,7 @@ This is a specific indoor mirror-selfie scene featuring a young woman in a cozy 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177829779-Neqp0vii.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177829779-Neqp0vii.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -914,7 +914,7 @@ A specific realistic outdoor image centered on a woman in a casual summer settin
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177826412-KkDo7-uD.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177826412-KkDo7-uD.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -941,7 +941,7 @@ Analog 35mm film photography, Fujifilm NC simulation style with heavy grain. A c
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177820582-dM2Zjo9g.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177820582-dM2Zjo9g.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -968,7 +968,7 @@ using my photo as the main reference, create a cinematic, moody indoor portrait.
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177840768-FXQGMR5q.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177840768-FXQGMR5q.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -995,7 +995,7 @@ Use the same face from the reference image without changing facial features youn
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177823678-nbLB0bw8.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177823678-nbLB0bw8.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1022,7 +1022,7 @@ This is a specific realistic image of a woman as the main subject in an upscale 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177823484-R9ccVbMl.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177823484-R9ccVbMl.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1049,7 +1049,7 @@ The prompt clearly describes a single woman as the subject in a full-body shot w
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177835778-ga9K50_z.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177835778-ga9K50_z.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1076,7 +1076,7 @@ An ultra-realistic, photorealistic candid paparazzi-style street photograph of a
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177826105-FEHBvSkw.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177826105-FEHBvSkw.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1103,7 +1103,7 @@ A stylish young man standing in front of a modern townhouse door, wearing a blac
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177831897-1S5Ij8UB.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177831897-1S5Ij8UB.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1130,7 +1130,7 @@ This is a specific candid street portrait of a young woman in a snowy urban sett
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177841147-MAb6cEUU.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177841147-MAb6cEUU.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1157,7 +1157,7 @@ This is a commercial composite centered on Pepsi being poured through a dimensio
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177841206-GS74SUaP.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177841206-GS74SUaP.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1184,7 +1184,7 @@ Shot on a Hasselblad 907X 50C with an XCD 90mm f/2.5 lens, aperture f/2.8 shallo
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177837964-yemMpC9G.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177837964-yemMpC9G.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1211,7 +1211,7 @@ The prompt is centered on stylized 3D text design with a structured JSON schema 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177834946-zAygp2kM.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177834946-zAygp2kM.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1238,7 +1238,7 @@ A gourmet hotdog caught mid-air as it drops onto a wooden serving board, the sau
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177817514-eIvY5M1P.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177817514-eIvY5M1P.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1265,7 +1265,7 @@ The prompt centers on a young woman in a posed portrait scene and includes the p
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177839636-qJxLzeRT.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177839636-qJxLzeRT.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1292,7 +1292,7 @@ The prompt describes a reusable 3D branded mini concept store with multiple plac
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177832787-NxCOppaJ.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177832787-NxCOppaJ.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1319,7 +1319,7 @@ Ultra-high resolution, 8K image, Highly detailed, realistic, PNG format. A photo
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177851224-IgCkwrCG.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177851224-IgCkwrCG.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1346,7 +1346,7 @@ Create a hyper-realistic editorial photo using my uploaded image for the man&#x2
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177846913-tSH8CwRP.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177846913-tSH8CwRP.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1398,7 +1398,7 @@ The prompt specifies an ultra-realistic full-body studio fashion portrait of a f
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177854315-3IrOe6LA.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177854315-3IrOe6LA.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1425,7 +1425,7 @@ A High resolution a playful notebook-style crayon drawing of the person [Use the
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177848739-pSOAYb8K.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177848739-pSOAYb8K.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1452,7 +1452,7 @@ Transform the uploaded image into a stylized 3D claymation character. Soft felt 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177844698-zVUvR9J1.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177844698-zVUvR9J1.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1494,7 +1494,7 @@ Quality: Raw unedited social - media vacation dump aesthetic, high dynamic range
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177843666-LNHFkEAh.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177843666-LNHFkEAh.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1521,7 +1521,7 @@ This is a specific close portrait of a young woman in a restaurant with expressi
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177852021-OlToxk0B.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177852021-OlToxk0B.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1548,7 +1548,7 @@ It explicitly describes a female lifestyle portrait in a sunlit bedroom with edi
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177850563-TXuzsbvf.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177850563-TXuzsbvf.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1575,7 +1575,7 @@ The presence of an argument placeholder for subject name makes this a reusable p
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177843981-wSAMnXym.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177843981-wSAMnXym.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1602,7 +1602,7 @@ Romantic lifestyle portrait of a young woman standing in a three-quarter back po
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177861017-nIKK6BVB.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177861017-nIKK6BVB.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1629,7 +1629,7 @@ Photorealistic cinematic film still live-action (no CGI). Preserve the subject&#
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177858367-HzjbGXlM.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177858367-HzjbGXlM.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1656,7 +1656,7 @@ The image is a specific mirror-selfie bedroom scene centered on a young woman an
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177862624-Vw8OM7xY.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177862624-Vw8OM7xY.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1683,7 +1683,7 @@ Ultra-realistic portrait of a young woman (use uploaded photo for exact face lik
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177857441-EE_2fYtk.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177857441-EE_2fYtk.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1710,7 +1710,7 @@ This is a specific celebrity red-carpet style image prompt focused on a woman’
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177855329-a-SM1Q5V.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177855329-a-SM1Q5V.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1737,7 +1737,7 @@ This is a specific indoor lifestyle image centered on a woman seated on a window
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177861016-quDJaFo9.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177861016-quDJaFo9.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1764,7 +1764,7 @@ The prompt specifies a realistic 4-panel close-to-face portrait of a young woman
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177854669-ijLDu5Qm.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177854669-ijLDu5Qm.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1791,7 +1791,7 @@ The bracketed placeholder [Brand Name] and reusable branded merchandise setup in
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177864043-skcLbh-a.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177864043-skcLbh-a.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1818,7 +1818,7 @@ This is a specific ultra-photoreal portrait of a young woman with clear styling,
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177863869-OEpXtAic.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177863869-OEpXtAic.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1845,7 +1845,7 @@ It describes a specific full-body female portrait scene and includes placeholder
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177870399-B_hU2j6V.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177870399-B_hU2j6V.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -1892,7 +1892,7 @@ This is a specific selfie-style two-subject portrait scene featuring Miyeon and 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177867075-cZCQtIWz.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177867075-cZCQtIWz.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2048,7 +2048,7 @@ The prompt centers on two women posed together in a snowy outdoor fashion portra
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177877239-M-6r3Hr_.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177877239-M-6r3Hr_.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2075,7 +2075,7 @@ Hyper-realistic cinematic portrait of a woman portrayed as a celestial archivist
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177879309-EmUYIVHa.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177879309-EmUYIVHa.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2102,7 +2102,7 @@ The structured JSON describes a centered female-presenting urban street portrait
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177879308-7enpxcjW.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177879308-7enpxcjW.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2142,7 +2142,7 @@ The prompt depicts a multi-character narrative scene set on an ancient battlefie
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177887180-soN8hmEG.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177887180-soN8hmEG.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2169,7 +2169,7 @@ The prompt explicitly describes a close-up portrait poster with layered visual t
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177881464-EXxb7bas.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177881464-EXxb7bas.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2196,7 +2196,7 @@ The prompt specifies an editorial fashion portrait of a female subject shown sta
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177885342-OpXtI7c0.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177885342-OpXtI7c0.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2223,7 +2223,7 @@ It depicts a single female subject in a whimsical digital-painting fantasy setti
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177886705-ON-DR3nN.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177886705-ON-DR3nN.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2337,7 +2337,7 @@ The prompt centers on an extreme close-up female face as the main subject with e
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177883628-jratxxXp.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177883628-jratxxXp.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2364,7 +2364,7 @@ Blueprint style technical drawing of [OBJECT], detailed white line art on a soli
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177883629-ynnQs2vD.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177883629-ynnQs2vD.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2391,7 +2391,7 @@ Ultra - realistic commercial FMCG photography showing a BRAND_NAME PRODUCT_TYPE 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177885630-5ZpEG0Xt.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177885630-5ZpEG0Xt.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2500,7 +2500,7 @@ Despite the mugshot framing concept, the image is still a specific full-body por
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177881646-wOU2lCDW.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177881646-wOU2lCDW.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2527,7 +2527,7 @@ Editorial 3x3 grid in a cool-grey seamless backdrop. Character (face characteris
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177890789-iF2rdDm1.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177890789-iF2rdDm1.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2554,7 +2554,7 @@ The subject is a female-presenting person taking a mirror selfie in a vivid real
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177892177-XuqfQ6OP.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177892177-XuqfQ6OP.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2581,7 +2581,7 @@ A melancholic medieval young woman with a soft, sorrowful gaze, standing in part
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177896618-d3ERl4cs.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177896618-d3ERl4cs.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2624,7 +2624,7 @@ Quality: Raw unedited "night - out" social - media dump aesthetic, high dynamic 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177891421-EPrH0UuZ.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177891421-EPrH0UuZ.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2651,7 +2651,7 @@ The image subject is a young woman posed in a luxury hotel setting, with the foc
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177894028-e3AARXrY.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177894028-e3AARXrY.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2694,7 +2694,7 @@ Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, no
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177895357-E8reS9tx.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177895357-E8reS9tx.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2721,7 +2721,7 @@ A hyper-realistic surreal photograph of a modern smartphone lying flat on a wood
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177895272-Zwpm8Lvc.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177895272-Zwpm8Lvc.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2748,7 +2748,7 @@ The structured request centers on a photoreal travel couple editorial with requi
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177894075-aKZ5EBFM.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177894075-aKZ5EBFM.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2775,7 +2775,7 @@ Create hyper-realistic 16k quality image of A young woman with a slightly dark m
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177897998-mjQoqi1W.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177897998-mjQoqi1W.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2802,7 +2802,7 @@ It describes a specific studio full-body portrait of a female subject with fashi
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177898175-iecWM99E.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177898175-iecWM99E.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2829,7 +2829,7 @@ The prompt describes a full-body young woman walking on a country road with deta
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177900798-tt_gWBVG.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177900798-tt_gWBVG.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2856,7 +2856,7 @@ Although structured as JSON metadata, it specifies a black-and-white photobooth 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177901444-xMb1LkJz.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177901444-xMb1LkJz.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2883,7 +2883,7 @@ This is a specific portrait photography setup centered on a woman in a vintage e
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177906377-TrdODsRE.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177906377-TrdODsRE.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2910,7 +2910,7 @@ Visualize Debussy&#x27;s Petit Suite &#x27;En Bateau&#x27; in the style of Monet
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177904419-cmrKg2AV.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177904419-cmrKg2AV.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2937,7 +2937,7 @@ A cinematic portrait of a young Japanese woman standing in the middle of a bustl
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177906764-WCxY_Bb6.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177906764-WCxY_Bb6.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2964,7 +2964,7 @@ A street-style map of Shenzhen, laid flat on a smooth reflective dark surface, w
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177909202-p9hvL6YV.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177909202-p9hvL6YV.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -2991,7 +2991,7 @@ An elusive Irish critter peeks out from behind a tree. It&#x27;s small with a fo
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177911821-2UvhWS71.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177911821-2UvhWS71.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3065,7 +3065,7 @@ The Korean idol studio portrait with mixed-media doodle overlays and panelized p
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177912006-ihY68z_A.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177912006-ihY68z_A.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3092,7 +3092,7 @@ The prompt describes an intimate close portrait with makeup, jewelry, and facial
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177910411-m8V36aAD.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177910411-m8V36aAD.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3119,7 +3119,7 @@ The prompt describes two women posed in a high-fashion nightlife setup, making i
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177914091-EodFK-Pk.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177914091-EodFK-Pk.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3146,7 +3146,7 @@ The detailed emphasis on facial features, makeup, skin texture, and hair strongl
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177909920-9yiZofgY.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177909920-9yiZofgY.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3173,7 +3173,7 @@ This is a specific scene centered on a young woman in a home-office environment,
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177914092-Qt6ro89d.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177914092-Qt6ro89d.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3200,7 +3200,7 @@ Turn the person in image 1 into a 1:1 real human, holding in their hand the figu
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177915797-Ox07pSi7.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177915797-Ox07pSi7.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3227,7 +3227,7 @@ based on the attached image, generate a Side by side photo of a close up face, a
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177917125-uzPHp3AG.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177917125-uzPHp3AG.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3254,7 +3254,7 @@ a colorful seahorse depicted in an abstract style with minimal detail against a 
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177918641-BPWcGW9U.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177918641-BPWcGW9U.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3281,7 +3281,7 @@ It asks for the design of a retro SLR camera, so the subject is clearly a tech p
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177917059-PSMtGqYR.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177917059-PSMtGqYR.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3308,7 +3308,7 @@ kashmir mountain flood rescue scene, rains causing river overflow in a kashmirmo
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177918719-TBLs5bAf.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177918719-TBLs5bAf.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3335,7 +3335,7 @@ Although photographic in style, the transformed floral-couture protagonist is tr
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177919990-5z9GMyf8.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177919990-5z9GMyf8.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3362,7 +3362,7 @@ Despite the JSON-like structure, it is still a specific mirror-selfie portrait d
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177921476-tnK_0qk3.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177921476-tnK_0qk3.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3389,7 +3389,7 @@ The structured prompt describes a candid street romance scene likely centered on
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177921941-HgKT94Mz.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177921941-HgKT94Mz.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3416,7 +3416,7 @@ The prompt is a specific descriptive setup centered on a young woman’s body, s
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177922821-ECeo4ncx.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177922821-ECeo4ncx.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3454,7 +3454,7 @@ It specifies a single female couture subject in a studio with full outfit emphas
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177923169-ZttL1-sQ.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177923169-ZttL1-sQ.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3481,7 +3481,7 @@ Create a high-contrast artistic portrait of a woman’s side profile in black an
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177924496-ox3WC3AH.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177924496-ox3WC3AH.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3508,7 +3508,7 @@ The prompt asks for a group of images plus detailed Chinese informational graphi
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177926053-WNjyuL2R.jpeg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177926053-WNjyuL2R.jpeg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3535,7 +3535,7 @@ A vintage yellowed blueprint of a Porsche 911 or Medieval Castle lying on a wood
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177929641-hZJ9cjK2.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177929641-hZJ9cjK2.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3562,7 +3562,7 @@ The subject is a lifestyle vlogger woman presented as the main focus in a realis
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177931544-A6E86wfK.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177931544-A6E86wfK.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3589,7 +3589,7 @@ A high-fidelity, wide-angle interior shot captures a surreal, mixed-media compos
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177928800--1aW4SIS.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177928800--1aW4SIS.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3616,7 +3616,7 @@ Create industrial packaging design sheet using Nano Banana 2.
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177932934-h74gajPh.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177932934-h74gajPh.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
@@ -3643,7 +3643,7 @@ Although truncated, the prompt strongly signals an Instagram-style realistic bea
 
 #### 🖼️ Preview
 
-![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177935062-J4lRgRnR.jpg)
+[![preview](https://pub-9a5b2c10e1c842b8a8373a658a772459.r2.dev/uploads/inspiration/1779177935062-J4lRgRnR.jpg)](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)
 
 #### 📌 Details
 
