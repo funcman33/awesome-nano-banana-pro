@@ -1,8 +1,13 @@
 # Awesome Nano Banana Pro Prompts
 
-> Curated collection of 110 Nano Banana Pro prompts with preview images.
+> Curated by **[Muse Art AI](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)** — 110 Nano Banana Pro prompts with preview images.
+> All-in-one AI image & video generator — try every model in one place.
+
+**[🎨 Try Nano Banana Pro on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 Last updated: 2026-05-20
+
+---
 
 ## Contents
 - [No. 1: 美妆护肤包装 — 悬浮半空的奢华木瓜磨砂膏](#no-1-美妆护肤包装-悬浮半空的奢华木瓜磨砂膏)
@@ -142,6 +147,8 @@ Hyperrealistic luxury product photography of a transparent cosmetic jar labeled 
 - **Tags:** 美妆护肤, 包装设计, 产品渲染图, 高贵, 写实
 - **Confidence:** 0.99
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 2: 美妆护肤包装 — 芒果百香果磨砂膏奢华飞溅大片
 
@@ -166,6 +173,8 @@ A hyperrealistic premium product photography scene of a transparent cosmetic jar
 - **Published:** 2026-03-31
 - **Tags:** 美妆护肤, 包装设计, 产品渲染图, 写实, 高贵
 - **Confidence:** 0.98
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 3: 信息图 — Premium liquid glass Bento grid product infographic with 8 modules
@@ -230,6 +239,8 @@ Output: 1 image, 16:9 landscape, ultra-premium liquid glass infographic.
 - **Tags:** 教学示意, 产品渲染图, 极简, 营销活动
 - **Confidence:** 0.98
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 4: 数码电子 — 极致奢华未来手机悬浮大片
 
@@ -255,6 +266,8 @@ Ultra-premium commercial product photo of a futuristic flagship smartphone float
 - **Tags:** 数码科技, 产品渲染图, 营销活动, 未来感, 写实
 - **Confidence:** 0.98
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 5: 信息图 — 等轴测透视科技产品拆解图
 
@@ -279,6 +292,8 @@ Create a technical infographic of [OBJECT NAME] with a 45-degree isometric 3D pe
 - **Published:** 2026-04-01
 - **Tags:** 教学示意, 数码科技, 产品渲染图, 极简
 - **Confidence:** 0.98
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 6: 海报/Banner — 刺绣歌曲海报
@@ -341,6 +356,8 @@ Border: Minimal single thin line border in [边框颜色] (hand-embroidered). Co
 - **Tags:** 海报, 装饰艺术, 极简, 高贵
 - **Confidence:** 0.98
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 7: 三维渲染 — 乐高风格迷你3D人偶
 
@@ -365,6 +382,8 @@ Create a highly detailed, miniature LEGO-style 3D figure of [NAME], preserving t
 - **Published:** 2026-01-08
 - **Tags:** 卡通, 产品渲染图, 头像, 欢快
 - **Confidence:** 0.98
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 8: 动物野生 — 极地广角镜头下的好奇北极狐怼脸特写
@@ -391,6 +410,8 @@ DIRECTIVE: Generate a raw, hyper-realistic POV wildlife photograph shot on an ac
 - **Tags:** 宠物, 写实, 欢快
 - **Confidence:** 0.98
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 9: 信息图 — 烤面包流程图
 
@@ -415,6 +436,8 @@ i need a flowchart for how to toast bread, make it as wacky and over the top and
 - **Published:** 2026-01-08
 - **Tags:** 食品饮料, 教学示意, 海报, 欢快
 - **Confidence:** 0.98
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 10: 信息图 — 零食产品工程蓝图解析图
@@ -441,6 +464,8 @@ Create a branded technical infographic of a PRODUCT NAME, fully matching the vis
 - **Tags:** 食品饮料, 教学示意, 包装设计, 写实, 品牌识别
 - **Confidence:** 0.97
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 11: Lifestyle 生活情境人像 — 暖光浴室红发女郎豹纹穿搭自拍
 
@@ -465,6 +490,8 @@ This prompt specifies a realistic mirror-selfie scene centered on a stylish woma
 - **Published:** 2026-04-02
 - **Tags:** 服饰时尚, 奢侈品, Instagram 素材, 写实
 - **Confidence:** 0.97
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 12: 时尚配饰 — 陨石雕刻的翡翠能量空军一号
@@ -491,6 +518,8 @@ A Nike Air Force shoe carved from black meteorite granite, glowing with emerald 
 - **Tags:** 服饰时尚, 产品渲染图, 营销活动, 未来感, 高贵
 - **Confidence:** 0.97
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 13: Couple / group 双人多人 — 健身房镜前三美大汗淋漓自拍
 
@@ -515,6 +544,8 @@ This is a specific medium-shot mirror selfie featuring three women together in a
 - **Published:** 2026-03-31
 - **Tags:** 运动健身, Instagram 素材, 写实, 欢快
 - **Confidence:** 0.97
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 14: 信息图 — 极简食谱信息图
@@ -541,6 +572,8 @@ Ultra-clean modern recipe infographic. Showcase [FOOD] in a visually appealing f
 - **Tags:** 食品饮料, 教学示意, 海报, 极简
 - **Confidence:** 0.97
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 15: 美妆护肤包装 — 翡翠星辰超新星香水大片
 
@@ -565,6 +598,8 @@ The perfume bottle is the clear hero subject in a luxury editorial ad setup, so 
 - **Published:** 2026-03-31
 - **Tags:** 美妆护肤, 奢侈品, 包装设计, 营销活动, KV/主视觉
 - **Confidence:** 0.97
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 16: Lifestyle 生活情境人像 — 奢华电梯里的老钱风镜像自拍
@@ -591,6 +626,8 @@ iPhone mirror selfie in luxury elevator. Woman&#x27;s face hidden by phone while
 - **Tags:** 服饰时尚, 奢侈品, Instagram 素材, 写实
 - **Confidence:** 0.96
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 17: 三维渲染 — 赛博朋克微缩立体模型国际象棋
 
@@ -615,6 +652,8 @@ Anchor: `[Chess Set / Backgammon] :: [Cyberpunk Neon City / Gothic Cathedrals]::
 - **Published:** 2026-04-01
 - **Tags:** 游戏, 概念探索, 写实, 赛博朋克, 未来感
 - **Confidence:** 0.96
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 18: 食材 — 极致微距下的鲜红草莓坠入丝滑牛奶
@@ -641,6 +680,8 @@ Ultra realistic macro of fresh strawberries falling into creamy white milk, thic
 - **Tags:** 食品饮料, 写实, 营销活动, 高贵
 - **Confidence:** 0.96
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 19: Female half-body 女性半身 — 电影级柔光下的粉纱丽人像
 
@@ -666,6 +707,8 @@ Bracketed example slots for outfit, colors, pose, and background make this a reu
 - **Tags:** 服饰时尚, 形象照/证件照, 奢侈品, 写实
 - **Confidence:** 0.96
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 20: 杂志/编辑设计 — 质朴马厩里的极简时尚大片
 
@@ -690,6 +733,8 @@ Medium Full Shot Of A Young Woman With Dark Наir Tied Васк, Seated On A Wo
 - **Published:** 2026-04-01
 - **Tags:** 服饰时尚, 极简, 温暖
 - **Confidence:** 0.96
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 21: 三维渲染 — 纸艺黄金城景立体书
@@ -743,6 +788,8 @@ dramatic shadows across the open book pages. Color Palette: Match the city's vib
 - **Tags:** 旅游, 概念探索, 产品渲染图, 写实
 - **Confidence:** 0.96
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 22: Female closeup 女性特写 — 梦幻光影下的金发少女唯美飞吻时刻
 
@@ -768,6 +815,8 @@ Fashion editorial close-up portrait of an ethereal young woman, delicate light-f
 - **Tags:** 服饰时尚, Lookbook, 梦幻, 写实
 - **Confidence:** 0.96
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 23: Male portrait 男性人像 — 极简黑白光影下的男模三联画
 
@@ -792,6 +841,8 @@ Preserve the face, proportions, and external features of the model as in the ref
 - **Published:** 2026-04-01
 - **Tags:** 服饰时尚, 写实, 极简, 严肃
 - **Confidence:** 0.96
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 24: Male portrait 男性人像 — 黑白权谋绅士风
@@ -819,6 +870,8 @@ Behind him, two impeccably dressed bodyguards stand alert, reinforcing a sense o
 - **Tags:** 奢侈品, 写实, 严肃, 汽车
 - **Confidence:** 0.95
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 25: Lifestyle 生活情境人像 — 午后暖阳下的吉他少女对镜自拍
 
@@ -843,6 +896,8 @@ This is a specific indoor mirror-selfie scene featuring a young woman in a cozy 
 - **Published:** 2026-03-23
 - **Tags:** 写实, 温暖, Instagram 素材, 服饰时尚
 - **Confidence:** 0.95
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 26: Lifestyle 生活情境人像 — 阳光下的夏日自信黑皮运动女孩
@@ -869,6 +924,8 @@ A specific realistic outdoor image centered on a woman in a casual summer settin
 - **Tags:** 写实, 服饰时尚, 活力, Instagram 素材
 - **Confidence:** 0.95
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 27: Lifestyle 生活情境人像 — 女性在阳光洒满的复古咖啡馆里
 
@@ -893,6 +950,8 @@ Analog 35mm film photography, Fujifilm NC simulation style with heavy grain. A c
 - **Published:** 2026-01-08
 - **Tags:** 服饰时尚, 复古, 写实, 梦幻, 性感
 - **Confidence:** 0.95
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 28: Female full-body 女性全身 — 温暖复古氛围下的电影感胶片肖像
@@ -919,6 +978,8 @@ using my photo as the main reference, create a cinematic, moody indoor portrait.
 - **Tags:** 写实, 复古, 温暖, 暗黑
 - **Confidence:** 0.95
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 29: Lifestyle 生活情境人像 — 网球场薄荷绿少女俏皮自拍
 
@@ -943,6 +1004,8 @@ Use the same face from the reference image without changing facial features youn
 - **Published:** 2026-04-01
 - **Tags:** 运动健身, Instagram 素材, 活力, 写实
 - **Confidence:** 0.95
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 30: Lifestyle 生活情境人像 — 烛光下的黑丝缎裙与金发美人
@@ -969,6 +1032,8 @@ This is a specific realistic image of a woman as the main subject in an upscale 
 - **Tags:** 服饰时尚, 奢侈品, 写实, 浪漫
 - **Confidence:** 0.95
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 31: Female full-body 女性全身 — 绝美日系少女室内唯美角色扮演
 
@@ -993,6 +1058,8 @@ The prompt clearly describes a single woman as the subject in a full-body shot w
 - **Published:** 2026-03-31
 - **Tags:** 影视娱乐, 写实, 营销活动
 - **Confidence:** 0.95
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 32: Child / teen 儿童青少年 — 阳光街拍金发少女的灿烂笑容
@@ -1019,6 +1086,8 @@ An ultra-realistic, photorealistic candid paparazzi-style street photograph of a
 - **Tags:** 写实, 欢快, 温暖
 - **Confidence:** 0.95
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 33: Male portrait 男性人像 — 酒红夹克里的九十年代怀旧物语
 
@@ -1043,6 +1112,8 @@ A stylish young man standing in front of a modern townhouse door, wearing a blac
 - **Published:** 2026-04-02
 - **Tags:** 服饰时尚, Lookbook, 写实
 - **Confidence:** 0.95
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 34: Lifestyle 生活情境人像 — 漫天飞雪湿润街头，身披酒红大衣的清冷少女
@@ -1069,6 +1140,8 @@ This is a specific candid street portrait of a young woman in a snowy urban sett
 - **Tags:** 服饰时尚, 写实, 冷峻, Instagram 素材
 - **Confidence:** 0.95
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 35: 饮料包装 — 跨越次元的百事可乐倾倒
 
@@ -1093,6 +1166,8 @@ This is a commercial composite centered on Pepsi being poured through a dimensio
 - **Published:** 2026-04-01
 - **Tags:** 食品饮料, 营销活动, 产品渲染图, 写实, 未来感
 - **Confidence:** 0.95
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 36: Male portrait 男性人像 — 彩色玻璃下的复古西装绅士
@@ -1119,6 +1194,8 @@ Shot on a Hasselblad 907X 50C with an XCD 90mm f/2.5 lens, aperture f/2.8 shallo
 - **Tags:** 服饰时尚, 写实, 严肃, 高贵
 - **Confidence:** 0.95
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 37: 字体设计 — 未来科技毛绒玻璃文字艺术
 
@@ -1143,6 +1220,8 @@ The prompt is centered on stylized 3D text design with a structured JSON schema 
 - **Published:** 2026-03-31
 - **Tags:** 数码科技, Banner/头图, 未来感, 霓虹, 产品渲染图, 毛绒质感
 - **Confidence:** 0.95
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 38: 零食小吃 — 酱汁飞舞的微距美味热狗
@@ -1169,6 +1248,8 @@ A gourmet hotdog caught mid-air as it drops onto a wooden serving board, the sau
 - **Tags:** 食品饮料, 餐饮, 写实, 营销活动
 - **Confidence:** 0.95
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 39: Female full-body 女性全身 — 斑驳光影中抱花微笑的田园风甜美写真
 
@@ -1193,6 +1274,8 @@ The prompt centers on a young woman in a posed portrait scene and includes the p
 - **Published:** 2026-03-23
 - **Tags:** 服饰时尚, 浪漫, 温暖
 - **Confidence:** 0.95
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 40: 概念设计/未建成 — Q版星巴克迷你概念店
@@ -1219,6 +1302,8 @@ The prompt describes a reusable 3D branded mini concept store with multiple plac
 - **Tags:** 食品饮料, 概念探索, 欢快, 温暖
 - **Confidence:** 0.95
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 41: Lifestyle 生活情境人像 — 霓虹夜色中身着香槟缎面裙的微醺丽人
 
@@ -1244,6 +1329,8 @@ Ultra-high resolution, 8K image, Highly detailed, realistic, PNG format. A photo
 - **Tags:** 写实, 浪漫, 高贵, Instagram 素材
 - **Confidence:** 0.94
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 42: Lifestyle 生活情境人像 — 阿尔卑斯山湖光山色中的奢华游艇绅士
 
@@ -1268,6 +1355,8 @@ Create a hyper-realistic editorial photo using my uploaded image for the man&#x2
 - **Published:** 2026-03-10
 - **Tags:** 服饰时尚, 奢侈品, 写实, 旅游
 - **Confidence:** 0.94
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 43: Female full-body 女性全身 — 蜜桃青橙时尚大片
@@ -1319,6 +1408,8 @@ The prompt specifies an ultra-realistic full-body studio fashion portrait of a f
 - **Tags:** 服饰时尚, 写实, Lookbook
 - **Confidence:** 0.94
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 44: Stylized 风格化人像（动漫/插画/赛博） — 童趣蜡笔笔记本人物涂鸦
 
@@ -1344,6 +1435,8 @@ A High resolution a playful notebook-style crayon drawing of the person [Use the
 - **Tags:** 卡通, 欢快, 头像
 - **Confidence:** 0.94
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 45: Stylized 风格化人像（动漫/插画/赛博） — 皮克斯风格3D粘土动画角色
 
@@ -1368,6 +1461,8 @@ Transform the uploaded image into a stylized 3D claymation character. Soft felt 
 - **Published:** 2026-02-25
 - **Tags:** 卡通, 头像, 欢快
 - **Confidence:** 0.94
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 46: Lifestyle 生活情境人像 — 广角俯拍下的完美沙漏身材与阳光沙滩
@@ -1409,6 +1504,8 @@ Quality: Raw unedited social - media vacation dump aesthetic, high dynamic range
 - **Tags:** 服饰时尚, Instagram 素材, 写实, 温暖
 - **Confidence:** 0.94
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 47: Female closeup 女性特写 — 魅惑红发女郎高档餐厅妩媚眨眼
 
@@ -1433,6 +1530,8 @@ This is a specific close portrait of a young woman in a restaurant with expressi
 - **Published:** 2026-03-23
 - **Tags:** 服饰时尚, 餐饮, 写实, 浪漫, Instagram 素材
 - **Confidence:** 0.94
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 48: Lifestyle 生活情境人像 — 阳光卧室里的极简时尚金发少女
@@ -1459,6 +1558,8 @@ It explicitly describes a female lifestyle portrait in a sunlit bedroom with edi
 - **Tags:** 服饰时尚, 写实, 平静, Instagram 素材
 - **Confidence:** 0.94
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 49: Female closeup 女性特写 — 柔黄泰迪熊连体衣俏皮金发少女
 
@@ -1483,6 +1584,8 @@ The presence of an argument placeholder for subject name makes this a reusable p
 - **Published:** 2026-04-01
 - **Tags:** 头像, 写实, 温暖, 欢快
 - **Confidence:** 0.94
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 50: Lifestyle 生活情境人像 — 玫瑰与红心气球簇拥的浪漫少女
@@ -1509,6 +1612,8 @@ Romantic lifestyle portrait of a young woman standing in a three-quarter back po
 - **Tags:** 浪漫, 服饰时尚, Instagram 素材, 写实, 婚庆
 - **Confidence:** 0.93
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 51: Female full-body 女性全身 — 废土幸存者手持霰弹枪的震撼电影肖像
 
@@ -1533,6 +1638,8 @@ Photorealistic cinematic film still live-action (no CGI). Preserve the subject&#
 - **Published:** 2026-04-01
 - **Tags:** 写实, 暗黑, 影视娱乐, 概念探索
 - **Confidence:** 0.93
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 52: Lifestyle 生活情境人像 — 甜酷Egirl卧室对镜自拍高清摄影
@@ -1559,6 +1666,8 @@ The image is a specific mirror-selfie bedroom scene centered on a young woman an
 - **Tags:** 服饰时尚, Instagram 素材, 写实, 欢快
 - **Confidence:** 0.93
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 53: Female closeup 女性特写 — 白花丛中仰头的复古相机女孩
 
@@ -1583,6 +1692,8 @@ Ultra-realistic portrait of a young woman (use uploaded photo for exact face lik
 - **Published:** 2026-04-01
 - **Tags:** 服饰时尚, 头像, 写实, 治愈, 温暖
 - **Confidence:** 0.93
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 54: Female full-body 女性全身 — 莎迪辛克红毯蕾丝黑裙写真
@@ -1609,6 +1720,8 @@ This is a specific celebrity red-carpet style image prompt focused on a woman’
 - **Tags:** 服饰时尚, 写实, 高贵
 - **Confidence:** 0.93
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 55: Lifestyle 生活情境人像 — 雪景窗畔的慵懒金发尤物
 
@@ -1633,6 +1746,8 @@ This is a specific indoor lifestyle image centered on a woman seated on a window
 - **Published:** 2026-03-31
 - **Tags:** 服饰时尚, 性感, 温暖, 写实
 - **Confidence:** 0.93
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 56: Female closeup 女性特写 — 透明粉框眼镜下的奶油肌少女四连拍
@@ -1659,6 +1774,8 @@ The prompt specifies a realistic 4-panel close-to-face portrait of a young woman
 - **Tags:** 写实, Instagram 素材, 美妆护肤, 温暖
 - **Confidence:** 0.93
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 57: 时尚配饰 — 极简纯白背景下的品牌胶囊系列周边
 
@@ -1683,6 +1800,8 @@ The bracketed placeholder [Brand Name] and reusable branded merchandise setup in
 - **Published:** 2026-04-01
 - **Tags:** 包装设计, 品牌识别, 电商主图, 极简
 - **Confidence:** 0.92
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 58: Female half-body 女性半身 — 胶片质感银发少女沐浴午后斑驳光影的唯美写真
@@ -1709,6 +1828,8 @@ This is a specific ultra-photoreal portrait of a young woman with clear styling,
 - **Tags:** 服饰时尚, Instagram 素材, 写实, 梦幻, 性感
 - **Confidence:** 0.92
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 59: Female full-body 女性全身 — 雪山之巅的奢华单板女郎
 
@@ -1733,6 +1854,8 @@ It describes a specific full-body female portrait scene and includes placeholder
 - **Published:** 2026-04-01
 - **Tags:** 写实, 运动健身, 冷峻, 概念探索
 - **Confidence:** 0.92
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 60: Couple / group 双人多人 — 和疯狂动物城中的角色自拍
@@ -1778,6 +1901,8 @@ This is a specific selfie-style two-subject portrait scene featuring Miyeon and 
 - **Published:** 2026-01-08
 - **Tags:** 写实, 欢快, 影视娱乐, Instagram 素材
 - **Confidence:** 0.92
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 61: Couple / group 双人多人 — 雪地街头闺蜜的冬日时尚大片
@@ -1933,6 +2058,8 @@ The prompt centers on two women posed together in a snowy outdoor fashion portra
 - **Tags:** 服饰时尚, 高贵, 冷峻, 写实
 - **Confidence:** 0.91
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 62: Female half-body 女性半身 — 悬浮深蓝宇宙的天界档案员
 
@@ -1958,6 +2085,8 @@ Hyper-realistic cinematic portrait of a woman portrayed as a celestial archivist
 - **Tags:** 写实, 未来感, 梦幻, 影视娱乐
 - **Confidence:** 0.91
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 63: Female half-body 女性半身 — 午后阳光下的城市街头时尚生活写真
 
@@ -1982,6 +2111,8 @@ The structured JSON describes a centered female-presenting urban street portrait
 - **Published:** 2026-03-23
 - **Tags:** 服饰时尚, 写实, Lookbook, 严肃
 - **Confidence:** 0.91
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 64: 历史场景 — 三英飙车战吕布
@@ -2021,6 +2152,8 @@ The prompt depicts a multi-character narrative scene set on an ancient battlefie
 - **Tags:** 影视娱乐, 水彩, 欢快, 国潮
 - **Confidence:** 0.90
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 65: 海报/Banner — 纯红底镜框透视金发海报
 
@@ -2045,6 +2178,8 @@ The prompt explicitly describes a close-up portrait poster with layered visual t
 - **Published:** 2026-03-31
 - **Tags:** 海报, 营销活动, 服饰时尚, 写实, 严肃
 - **Confidence:** 0.90
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 66: Female full-body 女性全身 — 地铁车厢里的冷酷时尚女郎
@@ -2071,6 +2206,8 @@ The prompt specifies an editorial fashion portrait of a female subject shown sta
 - **Tags:** 服饰时尚, 写实, 严肃, 冷峻, Instagram 素材
 - **Confidence:** 0.90
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 67: Stylized 风格化人像（动漫/插画/赛博） — 梦幻魔法图书馆的淡紫发少女
 
@@ -2095,6 +2232,8 @@ It depicts a single female subject in a whimsical digital-painting fantasy setti
 - **Published:** 2026-04-01
 - **Tags:** 梦幻, 卡通, 装饰艺术
 - **Confidence:** 0.90
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 68: Female closeup 女性特写 — 巨型面庞上的微观美妆团队超现实大片
@@ -2208,6 +2347,8 @@ The prompt centers on an extreme close-up female face as the main subject with e
 - **Tags:** 服饰时尚, 美妆护肤, 写实
 - **Confidence:** 0.90
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 69: 工业机械 — 精密蓝图线稿图
 
@@ -2233,6 +2374,8 @@ Blueprint style technical drawing of [OBJECT], detailed white line art on a soli
 - **Tags:** B2B/企业服务, 教学示意, 概念探索, 极简
 - **Confidence:** 0.90
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 70: 食品包装 — 极致逼真的商业产品爆炸悬浮瞬间
 
@@ -2257,6 +2400,8 @@ Ultra - realistic commercial FMCG photography showing a BRAND_NAME PRODUCT_TYPE 
 - **Published:** 2026-03-10
 - **Tags:** 食品饮料, 包装设计, 产品渲染图, 营销活动, 写实
 - **Confidence:** 0.90
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 71: Female full-body 女性全身 — 身着西装的女子摆出嫌犯照姿势
@@ -2365,6 +2510,8 @@ Despite the mugshot framing concept, the image is still a specific full-body por
 - **Tags:** 写实, 严肃, 形象照/证件照, 服饰时尚
 - **Confidence:** 0.90
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 72: 杂志/编辑设计 — 9种照片专业打光效果
 
@@ -2389,6 +2536,8 @@ Editorial 3x3 grid in a cool-grey seamless backdrop. Character (face characteris
 - **Published:** 2026-01-08
 - **Tags:** 服饰时尚, Lookbook, 写实, 严肃
 - **Confidence:** 0.89
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 73: Lifestyle 生活情境人像 — 洒红节庭院里的缤纷镜中自拍
@@ -2415,6 +2564,8 @@ The subject is a female-presenting person taking a mirror selfie in a vivid real
 - **Tags:** 服饰时尚, Instagram 素材, 温暖, 欢快, 写实
 - **Confidence:** 0.88
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 74: 历史场景 — 沦落中世纪的破碎美人与冷漠凝视
 
@@ -2439,6 +2590,8 @@ A melancholic medieval young woman with a soft, sorrowful gaze, standing in part
 - **Published:** 2026-04-01
 - **Tags:** 影视娱乐, 复古, 暗黑, 神秘
 - **Confidence:** 0.88
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 75: Female full-body 女性全身 — 深夜闪光灯下的液态金属质感金色长裙
@@ -2481,6 +2634,8 @@ Quality: Raw unedited "night - out" social - media dump aesthetic, high dynamic 
 - **Tags:** 写实, 暗黑, Instagram 素材
 - **Confidence:** 0.88
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 76: Female half-body 女性半身 — 豪华酒店大堂的紫衣优雅女郎
 
@@ -2505,6 +2660,8 @@ The image subject is a young woman posed in a luxury hotel setting, with the foc
 - **Published:** 2026-04-01
 - **Tags:** 服饰时尚, 奢侈品, 写实
 - **Confidence:** 0.88
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 77: Female half-body 女性半身 — 逼真的 Vogue 杂志封面风格的时尚肖像
@@ -2547,6 +2704,8 @@ Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, no
 - **Tags:** 服饰时尚, 形象照/证件照, Instagram 素材, 高贵, 写实
 - **Confidence:** 0.88
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 78: 数码电子 — 跨越屏幕倒进冰雪世界的荧光汽水
 
@@ -2571,6 +2730,8 @@ A hyper-realistic surreal photograph of a modern smartphone lying flat on a wood
 - **Published:** 2026-04-01
 - **Tags:** 数码科技, 营销活动, 产品渲染图, 写实, 未来感
 - **Confidence:** 0.88
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 79: Couple / group 双人多人 — 罗马斗兽场里的浪漫自拍轻吻
@@ -2597,6 +2758,8 @@ The structured request centers on a photoreal travel couple editorial with requi
 - **Tags:** 旅游, Lookbook, 写实, 浪漫
 - **Confidence:** 0.88
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 80: Female half-body 女性半身 — 繁花枝头下的红裙持机少女
 
@@ -2621,6 +2784,8 @@ Create hyper-realistic 16k quality image of A young woman with a slightly dark m
 - **Published:** 2026-04-01
 - **Tags:** 服饰时尚, 写实, 温暖, Instagram 素材
 - **Confidence:** 0.87
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 81: Female full-body 女性全身 — 黑白运动内衣美艳少女
@@ -2647,6 +2812,8 @@ It describes a specific studio full-body portrait of a female subject with fashi
 - **Tags:** 服饰时尚, 写实, 极简, 温暖
 - **Confidence:** 0.87
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 82: Female full-body 女性全身 — 黄金时刻乡间小路的温柔少女
 
@@ -2671,6 +2838,8 @@ The prompt describes a full-body young woman walking on a country road with deta
 - **Published:** 2026-04-01
 - **Tags:** 写实, 服饰时尚, 平静
 - **Confidence:** 0.86
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 83: Female closeup 女性特写 — 黑白胶片里的十六种表情
@@ -2697,6 +2866,8 @@ Although structured as JSON metadata, it specifies a black-and-white photobooth 
 - **Tags:** 形象照/证件照, 写实, 头像
 - **Confidence:** 0.86
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 84: Female half-body 女性半身 — 怀旧胶片风复古女郎肖像
 
@@ -2721,6 +2892,8 @@ This is a specific portrait photography setup centered on a woman in a vintage e
 - **Published:** 2026-04-01
 - **Tags:** 服饰时尚, 复古, 温暖, 写实
 - **Confidence:** 0.85
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 85: 水彩手绘 — 泛舟于莫奈的闪耀蓝水之上
@@ -2747,6 +2920,8 @@ Visualize Debussy&#x27;s Petit Suite &#x27;En Bateau&#x27; in the style of Monet
 - **Tags:** 水彩, 梦幻, 装饰艺术
 - **Confidence:** 0.85
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 86: Female closeup 女性特写 — 喧嚣人群中的静谧孤影
 
@@ -2771,6 +2946,8 @@ A cinematic portrait of a young Japanese woman standing in the middle of a bustl
 - **Published:** 2026-04-01
 - **Tags:** 写实, 严肃, 影视娱乐, 暗黑
 - **Confidence:** 0.85
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 87: 城市规划 — 从地图拔地而起的深圳3D微缩城市景观
@@ -2797,6 +2974,8 @@ A street-style map of Shenzhen, laid flat on a smooth reflective dark surface, w
 - **Tags:** 房产, 概念探索, 未来感, 写实
 - **Confidence:** 0.84
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 88: 吉祥物/角色设计 — 森林树后的四叶草精灵超写实特写
 
@@ -2821,6 +3000,8 @@ An elusive Irish critter peeks out from behind a tree. It&#x27;s small with a fo
 - **Published:** 2026-03-31
 - **Tags:** 卡通, 欢快, 治愈, 装饰艺术
 - **Confidence:** 0.84
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 89: Stylized 风格化人像（动漫/插画/赛博） — 梦幻韩系偶像蓝色生日四格写真
@@ -2894,6 +3075,8 @@ The Korean idol studio portrait with mixed-media doodle overlays and panelized p
 - **Tags:** 马卡龙马克笔, 服饰时尚, Instagram 素材, 梦幻
 - **Confidence:** 0.84
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 90: Female closeup 女性特写 — 逆光金辉下的红发雀斑少女绝美肖像
 
@@ -2918,6 +3101,8 @@ The prompt describes an intimate close portrait with makeup, jewelry, and facial
 - **Published:** 2026-03-09
 - **Tags:** 美妆护肤, 形象照/证件照, 写实, 暗黑
 - **Confidence:** 0.84
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 91: Couple / group 双人多人 — 午夜巴黎的高级慵懒美学
@@ -2944,6 +3129,8 @@ The prompt describes two women posed in a high-fashion nightlife setup, making i
 - **Tags:** 服饰时尚, Lookbook, Instagram 素材, 高贵, 暗黑
 - **Confidence:** 0.84
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 92: Female closeup 女性特写 — 沉浸式暖光铜发雀斑女孩特写
 
@@ -2968,6 +3155,8 @@ The detailed emphasis on facial features, makeup, skin texture, and hair strongl
 - **Published:** 2026-03-09
 - **Tags:** 美妆护肤, 写实, 温暖, Instagram 素材
 - **Confidence:** 0.84
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 93: Lifestyle 生活情境人像 — 少女轻柔擦拭桌上的微缩手办
@@ -2994,6 +3183,8 @@ This is a specific scene centered on a young woman in a home-office environment,
 - **Tags:** 头像, 写实, 欢快, 温暖
 - **Confidence:** 0.83
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 94: Lifestyle 生活情境人像 — 极致融合多图参考打造超写实人物大片
 
@@ -3018,6 +3209,8 @@ Turn the person in image 1 into a 1:1 real human, holding in their hand the figu
 - **Published:** 2026-03-08
 - **Tags:** 头像, 写实, 汽车
 - **Confidence:** 0.83
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 95: Stylized 风格化人像（动漫/插画/赛博） — 金纹蓝袍贵族女战士的特写与半身设计
@@ -3044,6 +3237,8 @@ based on the attached image, generate a Side by side photo of a close up face, a
 - **Tags:** 概念探索, 头像, 卡通, 梦幻
 - **Confidence:** 0.82
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 96: 水彩手绘 — 抽象海马流光溢彩
 
@@ -3068,6 +3263,8 @@ a colorful seahorse depicted in an abstract style with minimal detail against a 
 - **Published:** 2026-01-21
 - **Tags:** 水彩, 装饰艺术, 欢快
 - **Confidence:** 0.82
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 97: 数码电子 — 风格学习
@@ -3094,6 +3291,8 @@ It asks for the design of a retro SLR camera, so the subject is clearly a tech p
 - **Tags:** 数码科技, 复古, 产品渲染图, 概念探索
 - **Confidence:** 0.82
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 98: 电影感静帧 — 克什米尔山洪暴发与消防员紧急救援
 
@@ -3118,6 +3317,8 @@ kashmir mountain flood rescue scene, rains causing river overflow in a kashmirmo
 - **Published:** 2026-03-23
 - **Tags:** 严肃, 紧张, 写实
 - **Confidence:** 0.81
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 99: Stylized 风格化人像（动漫/插画/赛博） — 花卉蜕变超现实高定肖像
@@ -3144,6 +3345,8 @@ Although photographic in style, the transformed floral-couture protagonist is tr
 - **Tags:** 服饰时尚, 暗黑, 高贵, 概念探索
 - **Confidence:** 0.80
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 100: Lifestyle 生活情境人像 — 浅灰运动bra的自在时刻
 
@@ -3168,6 +3371,8 @@ Despite the JSON-like structure, it is still a specific mirror-selfie portrait d
 - **Published:** 2026-01-08
 - **Tags:** 写实, 性感, Instagram 素材
 - **Confidence:** 0.80
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 101: Couple / group 双人多人 — 伊斯坦布尔雨巷中共撑一把伞的情侣写实瞬间
@@ -3194,6 +3399,8 @@ The structured prompt describes a candid street romance scene likely centered on
 - **Tags:** 浪漫, 写实, 旅游
 - **Confidence:** 0.79
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 102: Female full-body 女性全身 — 阳光下穿着紧身短裤的丰腴辣妹回眸
 
@@ -3218,6 +3425,8 @@ The prompt is a specific descriptive setup centered on a young woman’s body, s
 - **Published:** 2026-03-23
 - **Tags:** 写实, 性感, 服饰时尚
 - **Confidence:** 0.79
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 103: Female full-body 女性全身 — 柔光之下悬浮花瓣编织的梦幻高定礼服
@@ -3255,6 +3464,8 @@ It specifies a single female couture subject in a studio with full outfit emphas
 - **Tags:** 服饰时尚, 梦幻, 写实
 - **Confidence:** 0.78
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 104: Stylized 风格化人像（动漫/插画/赛博） — 黑白光影下的撞色泼墨女性艺术肖像
 
@@ -3279,6 +3490,8 @@ Create a high-contrast artistic portrait of a woman’s side profile in black an
 - **Published:** 2026-03-01
 - **Tags:** 装饰艺术, 海报, 高贵
 - **Confidence:** 0.77
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 105: 信息图 — 长平之战信息图
@@ -3305,6 +3518,8 @@ The prompt asks for a group of images plus detailed Chinese informational graphi
 - **Tags:** 教育, 教学示意, 严肃
 - **Confidence:** 0.76
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 106: 三维渲染 — 蓝图跃出纸面的魔法瞬间
 
@@ -3329,6 +3544,8 @@ A vintage yellowed blueprint of a Porsche 911 or Medieval Castle lying on a wood
 - **Published:** 2026-04-01
 - **Tags:** 概念探索, 写实, 工业感, 汽车
 - **Confidence:** 0.74
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 107: Lifestyle 生活情境人像 — 马尔代夫奢华Vlog的午后时光
@@ -3355,6 +3572,8 @@ The subject is a lifestyle vlogger woman presented as the main focus in a realis
 - **Tags:** 服饰时尚, Instagram 素材, 写实, 高贵
 - **Confidence:** 0.74
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 108: 室内空间 — 打破次元壁：现实与动漫角色的梦幻客厅
 
@@ -3379,6 +3598,8 @@ A high-fidelity, wide-angle interior shot captures a surreal, mixed-media compos
 - **Published:** 2026-03-23
 - **Tags:** 家居, 概念探索, 影视娱乐, 写实, 欢快
 - **Confidence:** 0.74
+
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
 
 ---
 ### No. 109: 工业机械 — 未来科技感工业包装设计展示
@@ -3405,6 +3626,8 @@ Create industrial packaging design sheet using Nano Banana 2.
 - **Tags:** 包装设计, B2B/企业服务, 工业感, 概念探索
 - **Confidence:** 0.72
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
 ### No. 110: Lifestyle 生活情境人像 — 金色夕阳下的地中海海滨绝美写真
 
@@ -3430,4 +3653,22 @@ Although truncated, the prompt strongly signals an Instagram-style realistic bea
 - **Tags:** 写实, 服饰时尚, Instagram 素材, 温暖, 高贵
 - **Confidence:** 0.72
 
+**[👉 Try this prompt on Muse Art AI →](https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro)**
+
 ---
+
+## About
+
+This list is maintained by [Muse Art AI](https://www.museartai.com) — an all-in-one creative platform where you can run Nano Banana Pro and many other image & video models side-by-side, manage your prompt library, and ship faster.
+
+- 🌐 Website: <https://www.museartai.com>
+- 🎨 Try Nano Banana Pro: <https://www.museartai.com/prompts?utm_source=github&utm_medium=awesome-readme&utm_campaign=awesome-nano-banana-pro>
+- 🔄 Updated regularly with new community prompts
+
+## Contributing
+
+Spot a great Nano Banana Pro prompt we missed? Open an issue or PR — make sure to include the original creator's attribution.
+
+## License
+
+Prompt content is collected from public posts for educational and reference purposes; copyright remains with the original creators (linked under each entry's **Author** field). The curation/structure of this list is © Muse Art AI.
